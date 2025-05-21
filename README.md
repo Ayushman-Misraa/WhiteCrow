@@ -147,19 +147,6 @@ Contributions to WhiteCrow are welcome! To contribute:
 
 Please ensure your code follows the project's coding standards and includes appropriate tests.
 
-## 📸 Screenshots
-
-### Main Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Scan Configuration
-![Scan Configuration](screenshots/scan_config.png)
-
-### Results Analysis
-![Results](screenshots/results.png)
-
-### Detailed Report
-![Report](screenshots/report.png)
 
 ## 📜 License
 
