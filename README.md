@@ -148,10 +148,6 @@ Contributions to WhiteCrow are welcome! To contribute:
 Please ensure your code follows the project's coding standards and includes appropriate tests.
 
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⚠️ Ethical Use Warning
 
 WhiteCrow is a powerful security testing tool designed for legitimate security assessments with proper authorization. Unauthorized scanning of systems is illegal in most jurisdictions and unethical. Always ensure you have explicit permission to scan any target system.
